@@ -24,12 +24,12 @@
 - 《Node.js实战》
 - 《深入浅出Node.js》
 - 《Node.js开发指南》
-- 《深入浅出rxjs》
 - 《typescript-tutorial》
 - 《精通正则表达式（第3版）》
 
 ### React
-- 《react快速上手开发完整版
+- 《react快速上手开发完整版》
+- 《深入浅出rxjs》
 
 ### Vue
 - 《Vue.js 前端开发 快速入门与专业应用》
@@ -47,5 +47,5 @@
 ### Linux
 - 《Linux命令行与Shell脚本编程大全》
 
-**注意事项**
+### 注意事项
 可以直接下载阅读
